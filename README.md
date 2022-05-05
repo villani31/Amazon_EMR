@@ -1,8 +1,8 @@
 # Amazon EMR uma plataforma de Big Data
 
-O Amazon EMR é uma plataforma de Big Data em nuvem usada para executar trabalhos de processamento de dados distribuidos em grande escala, consultando SQL interativas e aplicações e Machine Learning (ML), usando frameworks de analíse de código aberto como Apache Spark, Apache Hive e Presto.
+  O Amazon EMR é uma plataforma de Big Data em nuvem usada para executar trabalhos de processamento de dados distribuidos em grande escala, consultando SQL interativas e aplicações e Machine Learning (ML), usando frameworks de analíse de código aberto como Apache Spark, Apache Hive e Presto.
 
-Anteriormente chamado de Amazon (Elastic MapReduce), é uma plataforma de cluster gerenciada que simplifica a execução de estruturas de Big Data. A Amazon comvercializa o EMR como um serviço expansivel.
+  Anteriormente chamado de Amazon (Elastic MapReduce), é uma plataforma de cluster gerenciada que simplifica a execução de estruturas de Big Data. A Amazon comvercializa o EMR como um serviço expansivel.
 
 Caso de uso do Amazon EMR:
 
@@ -11,7 +11,7 @@ Caso de uso do Amazon EMR:
 * Processa fluxo de dados em trmpo real
 * Acelera a Ciêmcia de Dados com a adoção de Machine Learning
 
-A Amazon EMR é baseado no Apache Hadoop, uma estrutura de programação baseada em Java, que oferece suporte ao processamento de grandes conjuntos de dados em um ambiente de computação distribuido.
+  A Amazon EMR é baseado no Apache Hadoop, uma estrutura de programação baseada em Java, que oferece suporte ao processamento de grandes conjuntos de dados em um ambiente de computação distribuido.
 
 Como um serviço de novem, o EMR pode ser implantado em várias configurações, como:
 
@@ -23,9 +23,11 @@ Como um serviço de novem, o EMR pode ser implantado em várias configurações,
 
 ### Apache Spark
 
-O Apache Spark é uma estrutura de processamento distribuído e um modelo de programação que ajuda você a fazer aprendizado de máquina, processamento de fluxo ou análise de gráficos usando clusters do Amazon EMR. Semelhante ao Apache Hadoop, o Spark é um sistema de processamento distribuído de código aberto comumente usado para cargas de trabalho de big data. No entanto, o Spark tem várias diferenças notáveis em relação ao Hadoop MapReduce. O Spark possui um mecanismo de execução de gráfico acíclico direcionado (DAG) otimizado e armazena dados em cache ativamente na memória, o que pode aumentar o desempenho, especialmente para determinados algoritmos e consultas interativas.
-
+  O Apache Spark é uma estrutura de processamento distribuído e um modelo de programação que ajuda você a fazer aprendizado de máquina, processamento de fluxo ou análise de gráficos usando clusters do Amazon EMR. Semelhante ao Apache Hadoop, o Spark é um sistema de processamento distribuído de código aberto comumente usado para cargas de trabalho de big data. No entanto, o Spark tem várias diferenças notáveis em relação ao Hadoop MapReduce. O Spark possui um mecanismo de execução de gráfico acíclico direcionado (DAG) otimizado e armazena dados em cache ativamente na memória, o que pode aumentar o desempenho, especialmente para determinados algoritmos e consultas interativas.
+  
 ----------------------------------------------------------------
+  
+  Amazon EMR, executar e escalar facilmente ferramentas de Big Data, podendo provisionar a capacidade que desejar. A baixo imagens de um ambiente que criei, um cluster utilizando Apache Spark:
 
 <p align="center">
   <img src="https://github.com/villani31/Amazon_EMR/blob/main/imagens/painel_cluster.png?w=740" alt="Amazon_EMR"height=400px >

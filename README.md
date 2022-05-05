@@ -3,5 +3,5 @@
 
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/doctors-personalized-prescriptive-analytics_335657-1882.jpg?w=740" alt="Prever_custo_seguro"height=400px >
+  <img src="https://github.com/villani31/Amazon_EMR/tree/main/imagens/*.jpg?w=740" alt="Amazon_EMR"height=400px >
 </p>

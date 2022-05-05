@@ -60,7 +60,9 @@ Amazon EMR, executar e escalar facilmente ferramentas de Big Data, podendo provi
 <p align="center">
   <img src="https://github.com/villani31/Amazon_EMR/blob/main/imagens/spark_06.png?w=740" alt="Amazon_EMR"height=400px >
 </p>
---------------------------------------------------------------------------------
+
+----------------------------------------------------------------
+
 Para conhecer mais sobre meus projetos:
 
 **Links:**

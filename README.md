@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/villani31/Amazon_EMR/tree/main/imagens/painel_cluster.jpg?w=740" alt="Amazon_EMR"height=400px >
+  <img src="https://github.com/villani31/Amazon_EMR/blob/main/imagens/painel_cluster.png?w=740" alt="Amazon_EMR"height=400px >
 </p>
 
 <p align="center">

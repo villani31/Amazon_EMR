@@ -1,6 +1,6 @@
 # Amazon EMR uma plataforma de Big Data
 
-O Amazon EMR é uma plataforma de Big Data em nuvem usada para executar trabalhos de processamento de dados distribuídos em grande escala, consultando SQL interativas e aplicações de Machine Learning (ML), usando frameworks de analise de código aberto como Apache Spark, Apache Hive e Presto.
+O [Amazon EMR](https://aws.amazon.com/pt/emr/) é uma plataforma de Big Data em nuvem usada para executar trabalhos de processamento de dados distribuídos em grande escala, consultando SQL interativas e aplicações de Machine Learning (ML), usando frameworks de analise de código aberto como Apache Spark, Apache Hive e Presto.
 
 <p align="center">
   <img src="https://github.com/villani31/Amazon_EMR/blob/main/imagens/amazon_emr.png?w=740" alt="Amazon_EMR"height=400px >
